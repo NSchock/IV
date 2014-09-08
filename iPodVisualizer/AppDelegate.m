@@ -2,9 +2,6 @@
 //  AppDelegate.m
 //  iPodVisualizer
 //
-//  Created by Xinrong Guo on 13-3-30.
-//  Copyright (c) 2013年 Xinrong Guo. All rights reserved.
-//
 
 #import "AppDelegate.h"
 #import "ViewController.h"

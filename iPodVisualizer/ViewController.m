@@ -2,9 +2,6 @@
 //  ViewController.m
 //  iPodVisualizer
 //
-//  Created by Xinrong Guo on 13-3-23.
-//  Copyright (c) 2013年 Xinrong Guo. All rights reserved.
-//
 
 #import "ViewController.h"
 #import <AVFoundation/AVFoundation.h>
